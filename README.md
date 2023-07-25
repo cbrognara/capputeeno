@@ -24,29 +24,39 @@ The challenge consists on:
 ### Frontend
 
 1. Clone this repo
-'https://github.com/cbrognara/capputeeno.git'
+   
+`https://github.com/cbrognara/capputeeno.git`
 
-2. Go to the project folder
-'cd challenge-frontend'
-'cd capputeeno'
+3. Go to the project folder
+   
+```
+cd challenge-frontend
+cd capputeeno
+```
 
 3. Install dependencies
-'npm install'
 
-4. Run Frontend
-'npm run dev'
+`npm install`
+
+5. Run Frontend
+   
+`npm run dev`
 
 ### Running the API
 
 1. Go to the API folder
-'cd challenge-frontend'
-'cd api'
+```   
+cd challenge-frontend
+cd api
+```
 
-2. Install dependencies
-'npm install'
+3. Install dependencies
+   
+`npm install`
 
-3. Run start
-'npm start'
+5. Run start
+   
+`npm start`
 
 
 Made with 💜
