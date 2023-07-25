@@ -1,7 +1,7 @@
 "use client"
 
 import { styled } from 'styled-components';
-import { ArrowIcon } from './ArrowIcon';
+import { ArrowIcon } from './icons/ArrowIcon';
 import {useState} from 'react';
 import { useFilter } from '@/hooks/useFilter';
 import { PriorityTypes } from '@/types/priority-types';
@@ -44,6 +44,7 @@ const PriorityFilter = styled.ul`
     padding: 12px 16px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
+    z-index: 999;
 
     list-style: none;
 

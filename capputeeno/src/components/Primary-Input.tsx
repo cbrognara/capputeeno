@@ -1,6 +1,6 @@
 import InputHTMLAttributes from 'react';
 import { styled } from 'styled-components';
-import SearchIcon from './SearchIcon';
+import SearchIcon from './icons/SearchIcon';
 
 export const PrimaryInput = styled.input`
     width: 352px;
